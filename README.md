@@ -30,7 +30,7 @@ This dataset contains detailed information on various types of mushrooms, focusi
 - **HABITAT**: Indicates the type of habitat where the mushroom is found.
 
 ## Team member
-- **Mhamad khalid **
+- **Mhamad khalid**
 - **Aren Anwar**
 - **Zhiwar Adll**
 
