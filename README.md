@@ -30,7 +30,10 @@ This dataset contains detailed information on various types of mushrooms, focusi
 - **HABITAT**: Indicates the type of habitat where the mushroom is found.
 
 ## Team member
-- **Mhamad khalid mirza**:
+- **Mhamad khalid **
+- **Aren Anwar**
+- **Zhiwar Adll**
 
+  
 ## Usage
 Researchers, data scientists, and mycologists can use this dataset for various purposes, including building classification models to predict whether a mushroom is edible or poisonous based on its features. It can also be used for educational purposes in data science courses to teach classification techniques and data preprocessing.
