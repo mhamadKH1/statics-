@@ -5,7 +5,8 @@ This dataset contains detailed information on various types of mushrooms, focusi
 
 # Columns:
 
-CLASS: Indicates whether the mushroom is edible (e) or poisonous (p).
+ 1CLASS: Indicates whether the mushroom is edible (e) or poisonous (p).
+ 
 CAP_SHAPE: Describes the shape of the mushroom cap, with various categorical values.
 CAP_SURFACE: Describes the surface texture of the mushroom cap.
 CAP_COLOR: Specifies the color of the mushroom cap.
